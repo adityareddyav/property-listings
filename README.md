@@ -51,5 +51,5 @@ A web application for managing property listings, built with React frontend and 
 - **Responsive Design**: Mobile-friendly interface
 - **Error Handling**: Graceful error states and user feedback
 - **Testing**: Comprehensive test coverage for both frontend and backend
-<img width="468" height="167" alt="image" src="https://github.com/user-attachments/assets/849b3caf-590f-46d4-a803-4625c5e1397b" />
+
 
