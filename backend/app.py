@@ -160,7 +160,7 @@ def internal_error(error):
 if __name__ == '__main__':
     print("Starting Property Listings API...")
     print(f"Sample listings loaded: {len(listings)}")
-    print("API will be available at: http://localhost:5000")
+    print("API will be available at: http://localhost:5002")
     print("\nEndpoints:")
     print("GET    /api/listings")
     print("POST   /api/listings") 
@@ -168,4 +168,4 @@ if __name__ == '__main__':
     print("POST   /api/listings/<id>/summary")
     print("GET    /api/health")
     
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=5002)
