@@ -6,7 +6,6 @@ A web application for managing property listings, built with React frontend and 
 
 - Node.js 16+
 - Python 3.8+
-- Git
 
 ### Installation & Setup
 
