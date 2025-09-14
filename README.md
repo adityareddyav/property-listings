@@ -12,6 +12,6 @@ A web application for managing property listings, built with React frontend and 
 
 1. Clone the repository
 
-   git clone https://github.com/adityareddyav/property-listings/
+   git clone https://github.com/adityareddyav/property-listings/ and then
    cd property-listings
 
