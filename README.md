@@ -96,5 +96,9 @@ Reasons for it:
 - Demonstrates integration pattern
 - Future: Easy to swap with OpenAI/Gemini APIs
 
+### Where and how AI tools were used :
 
+1. Scaffolding for React Components and Backend Endpoints.
+2. Test cases
+3. Boilerplate Code
 
