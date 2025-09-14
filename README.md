@@ -41,4 +41,15 @@ A web application for managing property listings, built with React frontend and 
    ```
 
    Frontend will run on: http://localhost:3000
-<img width="468" height="434" alt="image" src="https://github.com/user-attachments/assets/fdd1ab14-bad2-4d8d-97bc-aeaa8603faee" />
+
+### Completed Features
+
+- **Property Listings**: View all properties with search functionality
+- **Property Details**: Detailed view with AI-generated summaries
+- **Add Listings**: Form-based property creation with validation
+- **Search**: Real-time search across title, location, and description
+- **Responsive Design**: Mobile-friendly interface
+- **Error Handling**: Graceful error states and user feedback
+- **Testing**: Comprehensive test coverage for both frontend and backend
+<img width="468" height="167" alt="image" src="https://github.com/user-attachments/assets/849b3caf-590f-46d4-a803-4625c5e1397b" />
+
