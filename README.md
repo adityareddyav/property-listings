@@ -128,7 +128,7 @@ My Decisions:
 •	Chose vanilla CSS over frameworks for full control
 •	Determined component structure and separation of concerns
 AI Assistance: Provided suggestions when asked, but I made the final calls
-2. Backend Implementation (Your Core Work)
+2. Backend Implementation (My Core Work)
 I Implemented:
 •	Flask route structure and endpoint design
 •	Business logic for property CRUD operations
@@ -146,7 +146,7 @@ I Built:
 •	React Router navigation setup
 •	API integration patterns
 AI Assistance: Provided code snippets for specific React patterns when requested
-4. Styling & UX Design (Your Creative Work)
+4. Styling & UX Design (My Creative Work)
 I Designed:
 •	Color scheme and visual hierarchy
 •	Responsive grid layouts
