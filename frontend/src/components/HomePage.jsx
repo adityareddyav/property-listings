@@ -84,10 +84,10 @@ const HomePage = () => {
       <SearchBar onSearch={handleSearch} />
 
       <div className="listings-stats">
-        <p>{listings.length} properties found</p>
+        <p>{listings ? listings.length : 0} properties found</p>
       </div>
 
-      {listings.length === 0 ? (
+      {!listings || listings.length === 0 ? (
         <div className="no-results">
           <h3>No properties found</h3>
           <p>
