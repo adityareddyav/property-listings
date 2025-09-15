@@ -113,3 +113,77 @@ AI Usage Log :
 Example of an AI suggestion you did not use and why:
 
 - **One example ** would be the AI suggested to use Django for the Backend server, and it was very confident; however, I felt for a sample app like this, it was unnecessary and overrode the AI's suggestion and went ahead with Flask
+
+
+
+Be explicit about where AI saved you time vs. what you modified.
+
+Answer:
+
+1. Architecture & Design Decisions (My Leadership)
+My Decisions:
+•	Chose Flask over Django for lightweight API
+•	Selected React with hooks over class components
+•	Decided on in-memory storage vs database for speed
+•	Chose vanilla CSS over frameworks for full control
+•	Determined component structure and separation of concerns
+AI Assistance: Provided suggestions when asked, but I made the final calls
+2. Backend Implementation (Your Core Work)
+I Implemented:
+•	Flask route structure and endpoint design
+•	Business logic for property CRUD operations
+•	Custom validation rules for form inputs
+•	Error handling patterns and HTTP status codes
+•	Sample data structure and initialization
+•	Mock AI summary generation logic
+AI Assistance: Helped with Flask syntax and best practices when I got stuck
+3. Frontend Component Development (My Implementation)
+I Built:
+•	Component hierarchy and data flow
+•	State management strategy with useState/useEffect
+•	Form validation logic and error handling
+•	Search functionality implementation
+•	React Router navigation setup
+•	API integration patterns
+AI Assistance: Provided code snippets for specific React patterns when requested
+4. Styling & UX Design (Your Creative Work)
+I Designed:
+•	Color scheme and visual hierarchy
+•	Responsive grid layouts
+•	Form styling and validation states
+•	Navigation and footer design
+•	responsive approach
+•	User interaction patterns
+AI Assistance: Suggested CSS techniques for specific layout challenges
+5. Integration & Debugging (90%  Problem-Solving from me)
+I Solved:
+•	Missing index.html and index.js files (AI oversight)
+•	File structure organization (services/ folder placement)
+•	Port configuration mismatch (5000 vs 5002)
+•	CORS issues between frontend and backend
+•	React Router path configuration
+•	API endpoint testing and validation
+AI Assistance: None - these were integration issues I discovered and fixed
+🤖 Where AI Provided Focused Assistance 
+1. Code Syntax & Boilerplate (AI Helper Role)
+AI Helped With:
+•	Flask decorator syntax when I couldn't remember it
+•	React hooks patterns for specific use cases
+•	CSS flexbox and grid properties
+•	Python error handling try/catch blocks
+•	JavaScript array methods and formatting
+My Role: I knew what I wanted to build, AI helped with syntax
+2. Documentation & Comments (AI)
+AI Generated:
+•	Some parts of README structure and setup instructions
+•	Code comments and function documentation
+•	Component prop descriptions
+My Role: I reviewed, edited, and customized all documentation.
+3. Test Case Ideas (AI Brainstorming)
+AI Suggested:
+•	Test scenarios for edge cases
+•	Mock data structures for testing
+•	Test organization patterns
+AI Role: AI wrote the actual test implementations and logic
+<img width="468" height="638" alt="image" src="https://github.com/user-attachments/assets/7133c8fa-b441-4c32-bb1b-2b05200b359c" />
+
