@@ -108,3 +108,8 @@ AI Usage Log :
 <img width="1340" height="641" alt="Screenshot 2025-09-14 at 5 18 31 PM" src="https://github.com/user-attachments/assets/79a46a87-91c2-42e8-b0e8-59dbcbea5322" />
 
 <img width="1359" height="688" alt="Screenshot 2025-09-14 at 5 20 30 PM" src="https://github.com/user-attachments/assets/3387dc89-dce7-4a2a-8fea-9b27643fa3cc" />
+
+
+Example of an AI suggestion you did not use and why:
+
+- **One example ** would be the AI suggested to use Django for the Backend server, and it was very confident; however, I felt for a sample app like this, it was unnecessary and overrode the AI's suggestion and went ahead with Flask
